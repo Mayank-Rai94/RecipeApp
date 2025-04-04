@@ -59,7 +59,6 @@ implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.27'
 
 ```
 
-## 📦 Project Structure
 com.yourname.recipeapp/
 ├── data/                 # Room entities, DAO, database
 ├── ui/                   # Activities, adapters, splash, main UI
@@ -68,6 +67,7 @@ com.yourname.recipeapp/
 ├── res/
 │   └── drawable/         # GIFs, images
 └── AndroidManifest.xml
+
 
 
 
