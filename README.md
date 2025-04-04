@@ -58,7 +58,7 @@ implementation 'androidx.recyclerview:recyclerview:1.3.2'
 implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.27'
 
 ```
-
+## 📦 Project Structure
 com.yourname.recipeapp/
 ├── data/                 # Room entities, DAO, database
 ├── ui/                   # Activities, adapters, splash, main UI
