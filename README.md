@@ -69,5 +69,3 @@ com.yourname.recipeapp/
 └── AndroidManifest.xml
 
 
-
-
