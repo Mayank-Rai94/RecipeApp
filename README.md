@@ -36,7 +36,7 @@ A modern and elegant Android application built with **Kotlin**, using **Room Dat
 
 | Splash Screen | Home | Recipe Details |
 |---------------|------|----------------|
-| ![Splash](screenshots/splash.gif) | ![Home](screenshots/home.png) | ![Details](screenshots/details.png) |
+| ![Splash](screenshots/splash.gif) | ![Home](https://github.com/Mayank-Rai94/RecipeApp/blob/8c0e2a04b81b08d1f875597f6ae96c9a9d786050/Recipe3.jpg) | ![Details](screenshots/details.png) |
 
 ---
 
